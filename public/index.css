@@ -1,0 +1,25 @@
+body {
+  background-color: #3a2e42;
+  color: #ffffff;
+  text-align: center;
+}
+
+.pimage {
+  max-width: 200px;
+  max-height: 200px;
+}
+
+.result-card {
+  width: 90vw;
+  max-width: 500px;
+  background-color: #bfb3c7;
+  color: #000000;
+  margin: auto;
+  border-radius: 10px;
+  box-shadow: 10px 10px #000000;
+}
+
+a {
+  color: #000000;
+  text-decoration: underline;
+}
