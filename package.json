@@ -13,7 +13,7 @@
     "dev": "npm run build && npm run start"
   },
   "author": "Nicholas Carrigan",
-  "license": "GPL-3.0",
+  "license": "Hippocratic-2.1",
   "bugs": {
     "url": "https://github.com/nhcarrigan/park-search/issues"
   },
