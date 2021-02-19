@@ -7,7 +7,7 @@ This is a search application for national parks.
 
 ## Live Version
 
-This page is currently deployed. [View the live website.](http://parks.nhcarrigan.com)
+This project is archived and is no longer deployed.
 
 ## Feedback and Bugs
 
