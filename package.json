@@ -12,7 +12,7 @@
     "build": "tsc",
     "dev": "npm run build && npm run start"
   },
-  "author": "Nicholas Carrigan",
+  "author": "Naomi Carrigan",
   "license": "AGPL-3.0-or-later",
   "bugs": {
     "url": "https://github.com/nhcarrigan/park-search/issues"
